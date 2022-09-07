@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(72, 72, 72);
+}
+.box{
+    display: inline-block;
+    margin: 20px;
+    border-radius: 5px;
+}
+.content{
+    text-align: center;
+    margin: 30px 20%;
+    border-radius: 20px;
+}
+.header{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    line-height: 10px;
+    background-color: rgb(5, 141, 195);
+    padding: 5px;
+}
